@@ -1,0 +1,2 @@
+# This is custom configuration for zsh configuration.
+alias dvl='cd /opt/development/projects && ls'
